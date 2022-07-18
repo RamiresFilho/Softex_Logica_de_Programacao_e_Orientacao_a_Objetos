@@ -1,0 +1,28 @@
+Atividade 4 - Cadastro
+
+Escreva = caractere, inteiro, real, boolean;
+
+
+Escreva ("Nome: ");
+Escreva ("Endereço: ");
+Escreva ("Cidade: ");
+Escreva ("CPF: ");
+Escreva ("RG: ");
+Escreva ("Idade: ");
+Escreva ("Nome do pai: ");
+Escreva ("Nome da mae: ");
+Escreva ("Peso: ");
+Escreva ("Renda Bruta: ");
+
+Leia = caractere, inteiro, real, boolean;
+
+Leia ("Ramires Filho", Nome);
+Leia ("Jorge Couceiro", Endereço);
+Leia ("Recife", Cidade);
+Leia ("1234567890", CPF);
+Leia ("1234567", RG);
+Leia ("27 anos", Idade);
+Leia ("José", Nome do pai);
+Leia ("Maria", Nome da mae);
+Leia ("52.8kg", Peso);
+Leia ("R$ 1.500", Renda Bruta);
