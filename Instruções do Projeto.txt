@@ -1,0 +1,11 @@
+Atividade 3 - Instruções do Projeto
+
+{
+
+Nome = caractere;
+CPF = real;
+RG = real;
+Altura = real;
+Endereço = caractere;
+
+}
